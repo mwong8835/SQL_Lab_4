@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner; 
 
-public class example {	
+public class lab {	
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
     static final String DB_URL = "jdbc:mysql://localhost";
 
@@ -481,4 +481,5 @@ public class example {
     
     
     
-    }//end JDBCExample
+    }
+
